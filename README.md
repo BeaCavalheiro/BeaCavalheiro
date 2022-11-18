@@ -1,4 +1,7 @@
-### Hi there 👋
+OLÁ / HI THERE 👋
+
+VOCÊ PODE ME CHAMAR DE B, BEA, BIA OU COISINHA 😄
+YOU CAN CALL ME B, BEA, BIA, OR ITzinha 😄
 
 <!--
 **BeaCavalheiro/BeaCavalheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
