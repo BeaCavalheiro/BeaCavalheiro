@@ -1,7 +1,36 @@
 OLÁ / HI THERE 👋
 
+BEM VINDO AO MEU PERFIL DO GITHUB
+WELCOME TO MY GITHUB PROFILE
+
 VOCÊ PODE ME CHAMAR DE B, BEA, BIA OU COISINHA 😄 <br>
 YOU CAN CALL ME B, BEA, BIA, OR ITzinha 😄
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **BeaCavalheiro/BeaCavalheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
