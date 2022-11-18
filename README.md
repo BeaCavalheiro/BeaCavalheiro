@@ -6,6 +6,9 @@ WELCOME TO MY GITHUB PROFILE
 VOCÊ PODE ME CHAMAR DE B, BEA, BIA OU COISINHA 😄 <br>
 YOU CAN CALL ME B, BEA, BIA, OR ITzinha 😄
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width = 50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = 50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = 50px />
+          
+          
 
 
 
