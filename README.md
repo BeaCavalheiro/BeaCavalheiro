@@ -1,13 +1,27 @@
-OLÁ / HI THERE 👋
+<h1 align=center> OLÁ 👋</h1>
+<sub>(Hi there)</sub>
 
-BEM VINDO AO MEU PERFIL DO GITHUB<br>
-WELCOME TO MY GITHUB PROFILE
-
-VOCÊ PODE ME CHAMAR DE B, BEA, BIA OU COISINHA 😄 <br>
-YOU CAN CALL ME B, BEA, BIA, OR ITzinha 😄
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width = 50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = 50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = 50px />
+<br>
+<br>
           
+## BEM VINDO AO MEU PERFIL DO GITHUB 
+<sub>(Welcome to my Github Profile)</sub>
+
+<br>
+<br>
+<br>
+
+
+
+
+VOCÊ PODE ME CHAMAR DE B, BEA, BIA OU COISINHA 😄  MAPA DE DESENVOLVIMENTO NA PROGRAMAÇÃO 
+
+YOU CAN CALL ME B, BEA, BIA, OR ITzinha 😄  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width = 50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = 50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = 50px />  <div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeaCavalheiro&show_icons=true&theme=dracula)</div>
+         
+
+
           
 
 
