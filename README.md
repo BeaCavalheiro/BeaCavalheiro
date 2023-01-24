@@ -14,7 +14,7 @@
 
 
 
-VOCÊ PODE ME CHAMAR DE B, BEA, BIA OU COISINHA 😄  MAPA DE DESENVOLVIMENTO NA PROGRAMAÇÃO 
+VOCÊ PODE ME CHAMAR DE B, BEA, BIA OU COISINHA 😄  
 
 YOU CAN CALL ME B, BEA, BIA, OR ITzinha 😄  
 
@@ -23,28 +23,6 @@ YOU CAN CALL ME B, BEA, BIA, OR ITzinha 😄
 
 
           
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
