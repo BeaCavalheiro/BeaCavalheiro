@@ -8,17 +8,12 @@
 <sub>(Welcome to my Github Profile)</sub>
 
 <br>
-<br>
-<br>
-
-
-
 
 VOCÊ PODE ME CHAMAR DE B, BEA, BIA OU COISINHA 😄  
 
 YOU CAN CALL ME B, BEA, BIA, OR ITzinha 😄  
 
-<div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeaCavalheiro&show_icons=true&theme=dracula)</div>
+<div align=center><img src="https://github-readme-stats.vercel.app/api?username=BeaCavalheiro&show_icons=true&theme=dracula" alt=""></div>
          
 
 
