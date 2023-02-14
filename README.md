@@ -18,7 +18,7 @@ VOCÊ PODE ME CHAMAR DE B, BEA, BIA OU COISINHA 😄
 
 YOU CAN CALL ME B, BEA, BIA, OR ITzinha 😄  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width = 50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = 50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = 50px />  <div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeaCavalheiro&show_icons=true&theme=dracula)</div>
+<div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeaCavalheiro&show_icons=true&theme=dracula)</div>
          
 
 
