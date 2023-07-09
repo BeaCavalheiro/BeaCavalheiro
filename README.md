@@ -10,19 +10,19 @@ Personal Trainner por formação, me encontro em atual transição de carreira.
 
 <h2 align=center>Informações Importantes</h2> 
 <br>
-* O que você vai encontrar por aqui?!
+<li> O que você vai encontrar por aqui?!</li>
 <br>
   Apartir de 09/07/23, os repositorios que não continham projetos completos foram excluidos. Todos os projetos apartir dessa data serão versionados em privativo e somente liberados publicamente após concluidos.<br>
   Até o momento o unico projeto autoral é o da agencia de viagens e o site de aniversario, os demais projetos publicados são baseados em eventos online, ou video aulas e serão desenvolvidos para fins de aprendizado e aperfeiçoamento pessoal.
   <br>
   <br>
-* Cursos concluidos:<br>
+<li> Cursos concluidos:</li><br>
   JS (curso em video)<br>
   Git/Github (curso em video)<br>
   Dev Fullstack (Recodepro 540h)<br>
   <br>
   <br>
-* Linguagens e tecnologias que tive contato:<br>
+<li> Linguagens e tecnologias que tive contato:</li><br>
 HTML<br>
 CSS<br>
 JS<br>
